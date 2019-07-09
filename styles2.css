@@ -1,7 +1,27 @@
-.row {
+/*.row {
     border: 1px solid red;
 }
 
-.col {
+.col-data-1,
+.col-data-2 {
     border: 1px solid green;
+}*/
+
+body {
+    background: rgb(248, 248, 248) !important;
+}
+
+
+.col-title h1 {
+    text-align: center;
+    margin: 40px;
+}
+
+/*.row-data {
+    padding-left: 70px;
+    
+}*/
+
+.user-01 {
+    margin-top: 25px;
 }
