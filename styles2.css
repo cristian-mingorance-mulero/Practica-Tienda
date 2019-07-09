@@ -15,6 +15,27 @@ body {
 .col-title h1 {
     text-align: center;
     margin: 40px;
+    letter-spacing: 12px;
+    font-family:  sans-serif;
+}
+
+.col-data-1 h1 {
+    font-size: 25px;
+    letter-spacing: 2px;
+
+}
+
+h6 {
+    padding: 4px;
+}
+
+.optional-span {
+    color: grey;
+}
+
+.payment h1 {
+    margin-bottom: 20px;
+    letter-spacing: 4px;
 }
 
 /*.row-data {
@@ -24,4 +45,53 @@ body {
 
 .user-01 {
     margin-top: 25px;
+}
+
+.list-group {
+    width: 70%;
+}
+
+.list-group-item .span-block {
+    display: block;
+    color: grey;
+    font-size: 14px;
+
+}
+
+.list-group-item .span-price {
+    position: absolute;
+    right: 15px;
+}
+
+.badge-cart {
+    margin-left: 100px;
+}
+
+
+.col-data-2 {
+    padding-left: 40px !important
+}
+
+.col-data-2 h2 {
+    font-size: 25px;
+    letter-spacing: 4px;
+}
+
+.footer-black {
+    height: 40px;
+    background: black;
+    
+}
+
+.footer-black H5 {
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 4px;
+    padding-top: 5px;
+}
+
+.total-bg {
+    background: rgb(197, 197, 197) !important
 }
